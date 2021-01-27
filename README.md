@@ -1,2 +1,2 @@
 # geekbrainsJavaStart
-projects for java start learning
+project for java start learning
