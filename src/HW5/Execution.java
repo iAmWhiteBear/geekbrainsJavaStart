@@ -10,7 +10,7 @@ package HW5;
  * persArray[4] = new Person(...);
  * 5. С помощью цикла вывести информацию только о сотрудниках старше 40 лет.
  */
-public class execution {
+public class Execution {
     public static void main(String[] args) {
         Employee[] firm = new Employee[5];
         firm[0] = new Employee("Bria","Poles","Tadd","VP Accounting","tpoles0@wordpress.com", 88005553535L,117202,44);
